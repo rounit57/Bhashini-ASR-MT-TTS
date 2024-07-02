@@ -81,5 +81,5 @@ def ASR_compute_call(language,audio_64):
 #     audio_bytes = f.read()
 
 # base64_audio = base64.b64encode(audio_bytes).decode('utf-8')
-# out = json.loads(ASR_compute_call(lan,base64_audio))
+# out = ASR_compute_call(lan,base64_audio)
 # print(out)
