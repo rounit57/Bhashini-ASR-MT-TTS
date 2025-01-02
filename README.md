@@ -32,3 +32,7 @@ This repository simplifies the usage of BHASHINI’s APIs by:
    ```bash
    git clone https://github.com/your-repo-name.git
    cd your-repo-name
+   
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
