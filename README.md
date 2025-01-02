@@ -1,9 +1,34 @@
-# Bhashini-ASR-MT-TTS
-Pipeline to call and use ASR, MT, and TTS from BHASHINI 
 
-Login/signUp to https://bhashini.gov.in/ulca/user/login there if go in profile you can see your UserID and you can also generate the ULCA API Key.
+# Pipeline for ASR, MT, and TTS Using BHASHINI
 
-Here https://bhashini.gitbook.io/bhashini-apis You can get the complete Documentation to use ASR,TTS and MT.
+This repository provides a streamlined pipeline to call and use **ASR (Automatic Speech Recognition)**, **MT (Machine Translation)**, and **TTS (Text-to-Speech)** services from **BHASHINI**.
 
-Here You just have to get your userId and ulcaApiKey and paste it in functions provided , and call ASR_compute_call , nmt_compute_call and tts_compute_call to use it.
+---
 
+## Prerequisites
+
+1. **BHASHINI Account**: 
+   - Sign up or log in at [BHASHINI](https://bhashini.gov.in/ulca/user/login).
+   - Navigate to your profile to retrieve your **UserID** and generate the **ULCA API Key**.
+
+2. **Documentation Reference**: 
+   - Access the complete API documentation [here](https://bhashini.gitbook.io/bhashini-apis).
+
+---
+
+## Features
+
+This repository simplifies the usage of BHASHINI’s APIs by:
+- Providing functions to seamlessly integrate ASR, MT, and TTS.
+- Enabling direct calls to the APIs with minimal setup.
+
+---
+
+## Getting Started
+
+### Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-repo-name.git
+   cd your-repo-name
