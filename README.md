@@ -85,3 +85,7 @@ Contributions are welcome! If you have suggestions or find issues, feel free to:
 ## Acknowledgments
 Thanks to the BHASHINI initiative for providing robust language processing APIs.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+
